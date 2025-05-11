@@ -2,7 +2,7 @@ package Ejercicio2;
 
 public class ConversionTemperatura {
 	public double convertTemperature(double temperature, String fromUnit, String toUnit) {
-		// Convert the units to lowercase for case-insensitive comparison
+		// Convert the  units to lowercase for case-insensitive comparison
 		fromUnit = fromUnit.toLowerCase();
 		toUnit = toUnit.toLowerCase();
 		// Check for valid units and perform the corresponding conversion
