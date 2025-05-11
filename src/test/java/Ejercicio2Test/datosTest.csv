@@ -1,0 +1,10 @@
+21,Celsius,Fahrenheit,69.8
+21,Celsius,Kelvin,294.15
+21,Fahrenheit,Celsius,-6.1111111111
+21,Fahrenheit,Kelvin,267.03888888888888888
+21,Kelvin,Celsius,-252.14999999999998
+21,Kelvin,Fahrenheit,-421.87
+21,Celsius,UnidadInventada,NaN	
+21,Fahrenheit,UnidInventada,NaN
+21,Kelvin,UnidInventada,NaN
+21,UnidadInventada,Kelvin,NaN
